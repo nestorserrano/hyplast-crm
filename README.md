@@ -95,8 +95,13 @@ php artisan cache:clear
 php artisan config:clear
 ```
 
+## Autor y Propietario
+**Néstor Serrano**  
+Desarrollador Full Stack  
+GitHub: [@nestorserrano](https://github.com/nestorserrano)
+
 ## Licencia
-Propietario - Hyplast © 2026
+Propietario - © 2026 Néstor Serrano. Todos los derechos reservados.
 
 ## Documentación Adicional
 Ver archivos en el proyecto principal:
